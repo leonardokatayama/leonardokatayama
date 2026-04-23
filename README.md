@@ -1,45 +1,79 @@
 # Olá, eu sou o Leonardo! 👋 ![Profile Views](https://komarev.com/ghpvc/?username=leonardokatayama&color=blue&style=flat)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=34D058&width=435&lines=Desenvolvedor+de+Sistemas+desde+2011;Autodidata;Apaixonado+por+Tecnologia;Sempre+em+busca+de+novos+desafios!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=34D058&width=500&lines=Full-Stack+Developer+%7C+%2B15+anos+de+experi%C3%AAncia;Arquiteto+de+Software;Especialista+em+Real-Time+e+IA;Autodidata+e+apaixonado+por+tecnologia)
 
-💻 **Desenvolvedor Full-Stack** com mais de uma década de experiência, especializado em entregar soluções tecnológicas de ponta para desafios complexos.  
-👨‍💻 **Autodidata e apaixonado** por resolver problemas complexos e criar soluções inovadoras.  
-💡 Principais Habilidades em **Node.js**, **Vue.js**, **React**, **PostgreSQL**, **Oracle**, **TypeScript**.
+💻 **Full-Stack Developer** com mais de 15 anos de experiência construindo sistemas robustos e escaláveis.
+🏗️ **Especialista em arquitetura de software**, comunicação em tempo real, automação de atendimento multicanal e integração de IA.
+📍 São José do Rio Preto, SP — Brasil
+
+> Ao longo da carreira, desenvolvi plataformas de PABX IP, sistemas de atendimento via WhatsApp, Telegram e webchat, além de agentes de IA autônomos. Tenho paixão por transformar problemas complexos em código limpo, testável e que funciona em produção de verdade.
+
+## 🎯 Especialidades
+
+- 🏛️ **Arquitetura de Software** — DDD, Hexagonal, Clean Architecture, Microservices
+- ⚡ **Comunicação em tempo real** — WebSocket, Socket.IO, WebRTC
+- 🤖 **Inteligência Artificial** — LLM, RAG, Agentes Autônomos, OpenAI, Anthropic, MCP
+- 💬 **Integrações multicanal** — WhatsApp API, Messenger, Instagram, Asterisk
+- 🐳 **DevOps e Infraestrutura** — Docker, Kubernetes, RabbitMQ, Redis, AWS
+- 👥 **Liderança técnica** — code review, mentoria e formação de devs
 
 ## 🛠️ Tecnologias e Ferramentas
 
 ![Node.js](https://img.shields.io/badge/-Node.js-282a36?style=for-the-badge&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-282a36?style=for-the-badge&logo=vue.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-282a36?style=for-the-badge&logo=typescript)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-282a36?style=for-the-badge&logo=JAVASCRIPT)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-282a36?style=for-the-badge&logo=postgresql)
+![Vue.js](https://img.shields.io/badge/-Vue.js-282a36?style=for-the-badge&logo=vue.js)
+![Quasar](https://img.shields.io/badge/-Quasar-282a36?style=for-the-badge&logo=quasar)
 ![React](https://img.shields.io/badge/-React-282a36?style=for-the-badge&logo=react)
-![Oracle](https://img.shields.io/badge/-Oracle-282a36?style=for-the-badge&logo=oracle)
+![NestJS](https://img.shields.io/badge/-NestJS-282a36?style=for-the-badge&logo=nestjs)
+![AdonisJS](https://img.shields.io/badge/-AdonisJS-282a36?style=for-the-badge&logo=adonisjs)
 ![Laravel](https://img.shields.io/badge/-Laravel-282a36?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/-PHP-282a36?style=for-the-badge&logo=PHP)
-![MONGODB](https://img.shields.io/badge/-MONGO_DB-282a36?style=for-the-badge&logo=MONGODB)
-![MARIA DB](https://img.shields.io/badge/-MARIA_DB-282a36?style=for-the-badge&logo=MARIADB)
-![GIT](https://img.shields.io/badge/-GIT-282a36?style=for-the-badge&logo=GIT)
-![POSTMAN](https://img.shields.io/badge/-POSTMAN-282a36?style=for-the-badge&logo=POSTMAN)
-![DIGITALOCEAN](https://img.shields.io/badge/-DIGITAL_OCEAN-282a36?style=for-the-badge&logo=DIGITALOCEAN)
-
+![PHP](https://img.shields.io/badge/-PHP-282a36?style=for-the-badge&logo=php)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-282a36?style=for-the-badge&logo=postgresql)
+![Oracle](https://img.shields.io/badge/-Oracle-282a36?style=for-the-badge&logo=oracle)
+![MongoDB](https://img.shields.io/badge/-MongoDB-282a36?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-282a36?style=for-the-badge&logo=redis)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-282a36?style=for-the-badge&logo=rabbitmq)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-282a36?style=for-the-badge&logo=socket.io)
+![Docker](https://img.shields.io/badge/-Docker-282a36?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-282a36?style=for-the-badge&logo=kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-282a36?style=for-the-badge&logo=amazonaws)
+![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-282a36?style=for-the-badge&logo=digitalocean)
+![OpenAI](https://img.shields.io/badge/-OpenAI-282a36?style=for-the-badge&logo=openai)
+![Anthropic](https://img.shields.io/badge/-Anthropic-282a36?style=for-the-badge&logo=anthropic)
+![Git](https://img.shields.io/badge/-Git-282a36?style=for-the-badge&logo=git)
 
 ## 🚀 Projetos Destacados
 
 > *Observação: Os sistemas listados abaixo são proprietários e foram desenvolvidos para empresas específicas. **Código fonte não disponível***
 
-- [**Catix Cloud**](https://opttelecom.com.br/#software): Sistema de PABX em nuvem com funcionalidades avançadas, como criptografia ponta a ponta, URA personalizada e gravação em tempo real.
-- [**OPT Bot**](https://www.optbot.com.br/): Plataforma de automação de atendimento que integra múltiplos canais com recursos avançados para otimizar o atendimento e conversão de leads.
-- [**Saúde com Desconto**](https://saudecomdesconto.com.br/): Healthtech que oferece acesso a uma rede de serviços de saúde particular com preços acessíveis e sem burocracia.
-- [**Materiais Didáticos**](https://materiaisdidaticos.com.br/): E-commerce especializado em materiais pedagógicos, facilitando o acesso a recursos educativos de alta qualidade para escolas e famílias.
+- **DBX Voice** — Solução de PABX IP/VoIP em nuvem com gravação ilimitada, URA inteligente, filas de atendimento, discador automático e ramais virtuais via app ou softphone. *(PHP, Laravel, PostgreSQL, WebRTC, Asterisk, AWS S3)*
+- **DBX Chat** — Plataforma de automação de atendimento multicanal integrando WhatsApp, Telegram e webchat, com recursos de IA para conversão de leads. *(AdonisJS, PostgreSQL, RabbitMQ, Redis, Socket.IO, WhatsApp/Messenger/Instagram API)*
+- **DBX Sender** — Sistema de disparo em massa via WhatsApp Business API com campanhas segmentadas, agendamento e relatórios em tempo real. *(AdonisJS, PostgreSQL, RabbitMQ, Redis, Socket.IO)*
+- **DBX IA** — Plataforma de agentes de IA para WhatsApp: atendimento 24/7, qualificação de leads e agendamentos com personalidade customizada do negócio. *(NestJS, PostgreSQL, RabbitMQ, Agno, Qdrant, OpenAI, Anthropic)*
+- [**Saúde com Desconto**](https://saudecomdesconto.com.br/) — Healthtech que democratiza acesso à saúde particular, com agendamento, gestão de rede credenciada e pagamentos. *(Laravel, Vue.js, MySQL, AWS)*
+- [**Materiais Didáticos**](https://materiaisdidaticos.com.br/) — E-commerce de materiais pedagógicos com gestão de estoque, integração com marketplaces e sistema de afiliados. *(PHP, React, PostgreSQL)*
 
+## 💼 Experiência
+
+- **Softtri** — Sócio Proprietário · *ago/2015 — presente* · São José do Rio Preto, SP
+  Desenvolvimento Full-Stack de sistemas de vendas e automação de WhatsApp, manutenção de plataformas PABX IP, TDD, gestão de banco e infraestrutura em nuvem. Metodologia Ágil Scrum.
+- **DBX.global** — Desenvolvedor Java · *out/2013 — ago/2015*
+  Desenvolvimento de software web baseado em Asterisk para PABX IP e CallCenter, CRM integrado com foco em cobrança. Implementação de CI/CD, TDD e Scrum.
+- **Riosoft** — Desenvolvedor Web · *abr/2012 — out/2013*
+  Equipe exclusiva de fábrica para TAM Viagens. Sistemas de vendas B2C/B2B e integrações (Amadeus Global, Gateway UOL, SwitchFly).
+
+## 🎓 Formação Contínua
+
+- **Pós-Graduação em Engenharia de IA Aplicada** — UNIPDS + Anhanguera (Reconhecido pelo MEC) · LLM, RAG, Agentes Autônomos, MCP, Fine-Tuning e Governança em IA.
+- **Formação Arquitetura de Software** — Rodrigo Branas · Clean Code, DDD, Hexagonal, Clean Architecture, CQRS, SOLID e Design Patterns.
+- **Tech Leads Club — Arquiteto de Software** · Arquiteturas enterprise evolutivas, DDD estratégico e tático, monorepos NX, pipelines RAG e quality gates.
+- **Docker / DevOps / Vue.js** — Udemy (Cod3r, Jonathan Baraldi)
 
 ## 👨‍💻 Sobre Mim
 
-- 🔧 **Desenvolvedor apaixonado por desafios:** Encontro minha motivação em resolver problemas complexos, transformando ideias em soluções eficientes que geram impacto real.
-- 💬 **Comunicação eficaz:** Experiência em liderar e colaborar com equipes multidisciplinares, promovendo um ambiente de trabalho produtivo e com foco em resultados.
-- 🤝 **Liderança e trabalho em equipe:** Liderança voltada para o desenvolvimento contínuo das equipes, sempre buscando o máximo potencial de cada membro, alinhado aos objetivos estratégicos dos projetos.
-
-
+- 🔧 **Apaixonado por desafios** — transformo ideias em soluções eficientes com impacto real.
+- 💬 **Comunicação eficaz** — experiência liderando equipes multidisciplinares com foco em resultados.
+- 🤝 **Liderança e mentoria** — desenvolvimento contínuo dos times, alinhado aos objetivos estratégicos.
+- 📚 **Autodidata** — aprendizado contínuo via documentação, cursos e muito código em produção.
 
 ### GitHub Stats
 
@@ -47,10 +81,9 @@
 
 ![Top Langs](https://github-readme-stats-leonardokatayamas-projects.vercel.app/api/top-langs/?username=leonardokatayama&theme=dracula&show_icons=true)
 
-
 ## 🌐 Vamos conectar?
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu_perfil_na_dio-282a36.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMjYxIiBoZWlnaHQ9IjEwNiIgdmlld0JveD0iMCAwIDEwNiAxMDYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik05MC4yIDU2LjE5OThWMC4yOTk4MDVDNzcuNyAwLjI5OTgwNSA2Ni44IDYuODk5ODEgNjAuNyAxNi43OTk4QzU1LjkgMTQuOTk5OCA1MC42IDEzLjk5OTggNDUuMiAxMy45OTk4QzIwLjIgMTMuOTk5OCAwIDM0LjE5OTggMCA1OS4xOTk4QzAgODQuMTk5OCAyMC4yIDEwNC40IDQ1LjIgMTA0LjRDNTUuNyAxMDQuNCA2NS4zIDEwMC44IDczIDk0Ljc5OThDODMuNiA4Ni40OTk4IDkwLjQgNzMuNjk5OCA5MC40IDU5LjE5OThDOTAuMyA1OC4xOTk4IDkwLjMgNTcuMTk5OCA5MC4yIDU2LjE5OThaIiBmaWxsPSJ1cmwoI3BhaW50MV9saW5lYXJfMjU1XzI0OTcpIi8+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9InBhaW50MF9saW5lYXJfMjU1XzI0OTciIHgxPSIxMzUuMTAxIiB5MT0iNTkuMjcyMyIgeDI9IjIyNS40NTgiIHkyPSI1OS4yNzIzIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CjxzdG9wIHN0b3AtY29sb3I9IiM1NjUwOUEiLz4KPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjRTk0RDVGIi8+CjwvbGluZWFyR3JhZGllbnQ+CjxsaW5lYXJHcmFkaWVudCBpZD0icGFpbnQxX2xpbmVhcl8yNTVfMjQ5NyIgeDE9Ii0wLjA2NjQiIHkxPSI1Mi4zOTc0IiB4Mj0iOTAuMjkwNyIgeTI9IjUyLjM5NzQiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KPHN0b3Agc3RvcC1jb2xvcj0iIzJFQUFFMSIvPgo8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM0QTYzQTkiLz4KPC9saW5lYXJHcmFkaWVudD4KPGxpbmVhckdyYWRpZW50IGlkPSJwYWludDJfbGluZWFyXzI1NV8yNDk3IiB4MT0iOTUuMTg3MiIgeTE9IjY5Ljc5NjQiIHgyPSIxMjkuODQyIiB5Mj0iNjkuNzk2NCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgo8c3RvcCBzdG9wLWNvbG9yPSIjNEE2M0E5Ii8+CjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzU2NTA5QSIvPgo8L2xpbmVhckdyYWRpZW50Pgo8bGluZWFyR3JhZGllbnQgaWQ9InBhaW50M19saW5lYXJfMjU1XzI0OTciIHgxPSI5NS4xODcyIiB5MT0iMTcuNjcxOCIgeDI9IjEyOS44NDIiIHkyPSIxNy42NzE4IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CjxzdG9wIHN0b3AtY29sb3I9IiM0QTYzQTkiLz4KPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjNTY1MDlBIi8+CjwvbGluZWFyR3JhZGllbnQ+CjxsaW5lYXJHcmFkaWVudCBpZD0icGFpbnQ0X2xpbmVhcl8yNTVfMjQ5NyIgeDE9Ijk0Ljg0NzEiIHkxPSIxNy42NzE5IiB4Mj0iMTMwLjE4MSIgeTI9IjE3LjY3MTkiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KPHN0b3Agc3RvcC1jb2xvcj0iIzRBNjNBOSIvPgo8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM1NjUwOUEiLz4KPC9saW5lYXJHcmFkaWVudD4KPC9kZWZzPgo8L3N2Zz4K&style=for-the-badge)](https://web.dio.me/users/leonardo_katayama)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-282a36?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardo-yoshitero-katayama-86ab37102/)
 [![GitHub](https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github)](https://github.com/leonardokatayama)
 [![Email](https://img.shields.io/badge/Email-282a36?style=for-the-badge&logo=gmail)](mailto:leonardo.katayama@outlook.com)
+[![DIO](https://img.shields.io/badge/-Perfil_na_DIO-282a36?style=for-the-badge)](https://web.dio.me/users/leonardo_katayama)

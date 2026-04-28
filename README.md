@@ -80,7 +80,7 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-leonardokatayamas-projects.vercel.app/api?username=leonardokatayama&theme=dracula&show_icons=true&count_private=true&include_org_repos=true&cache_seconds=1)
+![GitHub Stats](https://github-readme-stats-leonardokatayamas-projects.vercel.app/api?username=leonardokatayama&theme=dracula&show_icons=true&count_private=true&include_org_repos=true)
 
 
 ![Top Langs](https://github-readme-stats-leonardokatayamas-projects.vercel.app/api/top-langs/?username=leonardokatayama&theme=dracula&show_icons=true)
